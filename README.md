@@ -6,7 +6,6 @@
 2. Any issues you encountered:
     
     *Initilally the connection to the cloud could not be established. But later afte solving the technical issues, I was able to make a connection.
-    I was unable to connect to the external IP after completing milestone 2. It wasn't until mid way of milestone 3 that I was able to connect to the external IP.
     
     
 3. Summary:
