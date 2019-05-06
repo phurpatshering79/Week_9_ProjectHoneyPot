@@ -5,7 +5,7 @@
    
 2. Any issues you encountered:
     
-    *Initilally the connection to the cloud could not be established. But later afte solving the technical issues, I was able to make a connection.
+    *Initilally the connection to the cloud could not be established. But later afte solving the technical issues, I was able to make a connection. The issue was with the installation script.
     
     
 3. Summary:
